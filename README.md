@@ -1,4 +1,5 @@
 layout-challenge
 ================
+Contains html page for pizza company using bootstrap and some css.
 
-File stubs and assets for page layout challenge
+Link to student server:http://students.washington.edu/raghut2/info343/layout-challenge
